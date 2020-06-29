@@ -9,3 +9,9 @@ My contributions:
 2. Turtle reversal
 3. No spawning on water
 4. Collision of the frog with the trees
+
+Partner contributions:
+1. No overlap of logs and loop in right direction
+2. Random # of lily pads appear in x axis
+3. Fixed upper boundary
+4. Created left and right boundaries
