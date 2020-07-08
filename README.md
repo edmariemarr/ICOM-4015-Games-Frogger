@@ -15,3 +15,5 @@ Partner contributions:
 2. Random # of lily pads appear in x axis
 3. Fixed upper boundary
 4. Created left and right boundaries
+
+Incomplete due to problems with implementing game over screen.
