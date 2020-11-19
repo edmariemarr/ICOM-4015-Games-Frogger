@@ -17,5 +17,6 @@ Partner contributions:
 4. Created left and right boundaries
 
 Incomplete due to problems with implementing game over screen.
+Will attempt to finish.
 
 Spring 2019
