@@ -1,6 +1,6 @@
-# Java-ICOM4015-Games-Frogger
+# FROGGER
 
-This is a version of Frogger made by UPRM students.
+This is a version of Frogger made by UPRM students for an Advanced Programming course.
 
 For the class we had to improve on many aspects of the game with a partner.
 
@@ -15,7 +15,5 @@ Partner contributions:
 2. Random # of lily pads appear in x axis
 3. Fixed upper boundary
 4. Created left and right boundaries
-
-Incomplete due to problems with implementing game over screen.
 
 Spring 2019
